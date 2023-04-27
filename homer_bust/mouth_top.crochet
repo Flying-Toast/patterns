@@ -1,0 +1,16 @@
+sc 3 in mr
+% NOTE: the `ch`s are all turning chains, when you see a `ch`, chain then turn and continue following the pattern. %
+ch, inc 3
+ch, [sc, inc] 3
+ch, [inc, sc 2] 3
+ch, [sc 3, inc] 3
+ch, sc, inc, [sc 4, inc] 2, sc 3
+ch, [sc 5, inc] 3
+sc 13, % along the edge of the flat side of the semicircle %, blsc 21, % along the arc of the semicircle %
+blsc 13, % along flat part %
+% we're now working in the round. There should be 34 stitches. %
+dec, sc 6, dec, sc, dec, sc 6, dec, sc 13
+sc 2, dec, sc 2, dec, sc, dec, sc 2, dec, sc 15
+[sc, dec] 4, sc 14
+% cut with long tail, stuff %
+% For every second stitch along the flat side, do a sc through both that stitch and the next stitch on the curved side %

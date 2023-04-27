@@ -1,0 +1,5 @@
+sc 4 in mr
+sc, flinc 2, sc
+sc, flinc 4, sc
+% weave dead end through round 2's back loops, then go down through the loops again, then trim remaining dead end %
+% cut working end %

@@ -1,0 +1,11 @@
+sc 4 in mr
+inc 4
+sc 8
+sc 8
+sc 8
+sc 8
+sc 8
+% nose is a bit long; try one or two less of these sc 8 rounds %
+sc 8
+sc 8
+% cut with long tail for sewing %
