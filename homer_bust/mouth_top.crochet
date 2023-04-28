@@ -7,10 +7,10 @@ ch, [sc 3, inc] 3
 ch, sc, inc, [sc 4, inc] 2, sc 3
 ch, [sc 5, inc] 3
 sc 13, % along the edge of the flat side of the semicircle %, blsc 21, % along the arc of the semicircle %
-blsc 13, % along flat part %
+bpsc 13, % along flat part %
 % we're now working in the round. There should be 34 stitches. %
-dec, sc 6, dec, sc, dec, sc 6, dec, sc 13
+sc, dec, sc 5, dec, sc, dec, sc 5, dec, sc 14
 sc 2, dec, sc 2, dec, sc, dec, sc 2, dec, sc 15
 [sc, dec] 4, sc 14
-% cut with long tail, stuff %
-% For every second stitch along the flat side, do a sc through both that stitch and the next stitch on the curved side %
+sc 9, % note that we end halfway through the round %
+% cut tail, stuff and sew closed %
