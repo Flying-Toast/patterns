@@ -14,6 +14,7 @@ sc 36
 flinc 5, sc 5, flinc 5, sc 21
 sc 36, % skip the flincs from previous round, just sc in their remaining back loop %
 sc 36
+% put in his 2 hairs (1 strand of black yarn) %
 sc 36
 sc 36
 sc 36
@@ -23,9 +24,10 @@ sc 36
 sc 36
 sc 36
 % sew on eyes %
-dec 3, sc 5, dec 3, sc 19
+sc 4, dec 3, sc 5, dec 3, sc 15
 % sew on nose %
 % sew on ears: bottom of left ear goes 5 rounds under the current stitch on the hook %
+% embroider "M" hair above ears %
 sc 15, sc, [inc, sc] 3, sc, [sc, inc] 3, sc
 sc 36
 sc 36
@@ -38,6 +40,7 @@ sc 36
 sc 36
 sc 36
 % sew on mouth %
+sc 36
 bpsc 36
 % stuff %
 dec 18
