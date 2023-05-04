@@ -13,7 +13,7 @@ sc 42
 sc 42
 sc 3, bpsc 15, sc 24
 sc 42
-sc 4, ch 14, % skip 5 %, fpsc 2, % the fpsc 2 uses 3 stitches %, ch 14, % skip 5 %, sc 6, [sc 2, dec] 2, sc, [dec, sc 2] 2, sc 2
+sc 4, ch 14, skip 5, fpsc 2, % the fpsc 2 uses 3 stitches %, ch 14, skip 5, sc 6, [sc 2, dec] 2, sc, [dec, sc 2] 2, sc 2
 sc 4, % this next sc 9 is *around* the entire chain string, not into any chain links %, sc 9, % next sc is around *both* chain strings: %, sc, % this sc 9 is around next chain string: %, sc 9, sc 4, [dec, sc 2] 2, sc, [sc 2, dec] 2
 sc 30, [dec, sc 3] 2
 sc 38
@@ -29,5 +29,5 @@ sc 17
 sc 17
 sc 17
 bpsc 17
-dec 8
+dec 8, skip 1
 % sew shut, NOTE: the last round is 1 stitch short, just sew it normally though %
