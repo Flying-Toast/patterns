@@ -1,6 +1,6 @@
 % work it wrong side out for a while, don't flip it right side out until instructed to do so %
 sc 5 in mr
-sc 5
+sc 5, % TODO: try without this round %
 sc, inc 4
 sc 3, inc 4, sc 2
 sc 3, [sc, inc] 4, sc 2
@@ -17,5 +17,6 @@ sc 11
 sc 11
 sc 2, dec, sc 7
 sc 10
+% TODO: try going back/forth in rows a couple times to make the top longer, so the nose points downwards when mounted %
 % cut dead end %
 % sew nostrils shut %
