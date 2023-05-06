@@ -12,4 +12,5 @@ ch, [sc 2, dec] 4, sc
 ch, [sc, dec] 4, sc
 ch, dec 2, sc, dec 2
 ch, dec, sc dec
-% cut long tail %
+% cut with long tail %
+% turn inside out %
