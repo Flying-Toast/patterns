@@ -1,0 +1,6 @@
+sc 3 in mr
+tch, inc 3
+tch, inc, sc, [sc, inc] 2
+tch, blsc 9
+tch, dec 2, sc, dec 2
+tch, dec, sc, dec
