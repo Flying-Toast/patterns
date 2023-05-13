@@ -8,7 +8,7 @@ flinc 2, sc 2, flinc 2, sc 12
 sc 18, % use the back loops left by the flincs %
 % put in 2 head hairs %
 sc 18
-sc 9, ch, tch, inc, % this sl is into the round below %, sl, % sl back to get in position for rest of round %, sc 7, ch, tch, inc, sl, % (into round below) %, % sl back into position %, sc 2
+sc 11, ch, tch, inc, % this sl is into the round below %, sl, % sl back to get in position for rest of round %, sc 5, ch, tch, inc, sl, % (into round below) %, % sl back into position %, sc 2
 sc 4, % `fldc`s into same stitch, dont close them: %, fldc 4, % don't yarnover, but just pull the last loop through all 4 other loops on hook %, ch, % sc in back loop left by `dc`s: %, sc, sc 13
 sc 18
 [sc, dec] 2, sc 4, inc, sc 4, inc, sc 2
