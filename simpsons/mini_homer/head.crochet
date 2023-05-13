@@ -12,14 +12,14 @@ sc 11, ch, tch, inc, % this sl is into the round below %, sl, % sl back to get i
 sc 4, % `fldc`s into same stitch, dont close them: %, fldc 4, % don't yarnover, but just pull the last loop through all 4 other loops on hook %, ch, % sc in back loop left by `dc`s: %, sc, sc 13
 sc 18
 [sc, dec] 2, sc 4, inc, sc 4, inc, sc 2
-sc 18
-sc 18
-sc 18
-% sew on eyes %
 % ear hair %
+% sew on eyes %
 sc 18
-% sew on mouth %
+sc 18
+sc 18
+sc 18
+% sew on mouth, with a tiny bit of stuffing in it %
 bpsc 18
+% stuff %
 dec 9
-sc, dec 4
-% sew shut %
+dec 4, % sew shut %
