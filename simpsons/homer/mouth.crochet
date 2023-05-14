@@ -1,16 +1,15 @@
 sc 3 in mr
-% NOTE: the `ch`s are all turning chains, when you see a `ch`, chain then turn and continue following the pattern. %
-ch, inc 3
-ch, inc, sc, [sc, inc] 2
-ch, [inc, sc 3] 2, inc
-ch, inc, sc 5, inc, sc 4, inc
-ch, inc, sc 6, inc, sc 6, inc
-ch, inc, sc 7, inc, sc 8, inc
-ch, blsc 21
-ch, sc, dec, sc 5, dec, sc, dec, sc 5, dec, sc
-ch, [sc 2, dec] 4, sc
-ch, [sc, dec] 4, sc
-ch, dec 2, sc, dec 2
-ch, dec, sc dec
+tch, inc 3
+tch, inc, sc, [sc, inc] 2
+tch, [inc, sc 3] 2, inc
+tch, inc, sc 5, inc, sc 4, inc
+tch, inc, sc 6, inc, sc 6, inc
+tch, inc, sc 7, inc, sc 8, inc
+tch, blsc 21
+tch, sc, dec, sc 5, dec, sc, dec, sc 5, dec, sc
+tch, [sc 2, dec] 4, sc
+tch, [sc, dec] 4, sc
+tch, dec 2, sc, dec 2
+tch, dec, sc dec
 % cut with long tail %
 % turn inside out %
