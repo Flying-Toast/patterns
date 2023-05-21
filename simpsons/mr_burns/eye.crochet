@@ -1,9 +1,0 @@
-% use black %
-sc 3 in mr
-% these `ch`s all imply a turn %
-ch, % for the first yarnover of each stitch of these `inc`s, use the black. For the second yarnover use white %, inc 3
-ch, [sc, inc] 3
-ch, [inc, sc 2] 3
-ch, sc 12
-% continue around the flat side of semicircle: %, inc, sc 2, ch 5, % skip pupil %, sc 2, inc
-ch, bpsc 11
