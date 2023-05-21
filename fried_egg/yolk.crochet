@@ -1,0 +1,6 @@
+sc 6 in mr
+inc 6
+[sc 2, inc] 4
+[sc 2, inc] 5, sc
+sc 21
+sc 21

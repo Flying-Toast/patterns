@@ -1,0 +1,13 @@
+% use yolk color %
+sc 6 in mr
+inc 6
+inc 2, [sc, inc] 5
+[sc 2, inc] 6, % color change to white in this stitch: %, sc
+% remain in white for rest of the piece %
+sc 4, [inc, sc] 3, sc 6, [inc, sc] 3, sc 3
+inc, sc 2, [sc 3, inc] 3, sc 2, [sc 3, inc] 3, sc 2
+sc 3, [inc, sc 3] 3, sc 8, [inc, sc 3] 3, sc 3
+sc 8, [sc, inc] 3, sc 16, [sc, inc] 3, sc 8
+inc, sc 9, [inc, sc] 3, sc 18, [inc, sc] 3, sc 10
+sc 12, [sc, inc] 3, sc 22, [sc, inc] 3, sc 11
+% cut off %, % weave all yarn ends to the yellow center, with tails coming out the good side %, % sew on yolk, covering up tails %
