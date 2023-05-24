@@ -1,0 +1,33 @@
+% with the second nub still on the hook: %
+tch, % the next 4 stitches are thru BOTH pieces, starting into the 4th from last stich of the non-working nub: %, sl, sc 2, sl
+% still in white: %
+% TODO: idk, these 11s are wrong maybe fix them, should it be 10s? %
+sc 11
+sc 11
+sc 11
+sc 11
+sc 11
+sc 11
+sc 11
+sc 11
+sc 10, % color change to meat color in this stitch: %, sc
+fpsc 10
+[inc, sc] 6
+sc 16
+sc 16
+[sc 2, inc] 5, sc
+sc 21
+[inc, sc 3] 5, sc
+[sc 3, inc] 6, sc 2
+sc 32
+sc 32
+sc 32
+sc 32
+sc 32
+sc 32
+[dec, sc 3] 6, dec
+[sc 2, dec] 6, sc
+dec 4, sc, dec 5
+% stuff %
+dec 5
+% tie off %

@@ -1,0 +1,7 @@
+% use white %
+sc 6 in mr
+inc 6
+sc 12
+sc 12
+dec 4, sc, inc 2, sc
+% Don't cut off from the second one! %
