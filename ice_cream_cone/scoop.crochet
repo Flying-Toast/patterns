@@ -1,0 +1,9 @@
+sc 6 in mr
+inc 6
+[sc, inc] 6
+[inc, sc 2] 6
+sc 24
+sc 24
+sc 24
+sc 24
+[flsc, flinc] 12
